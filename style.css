@@ -1,0 +1,8 @@
+header {
+    background-image: url(img/pattern.png);
+    background-size: contain;
+}
+h1 {color:white;}
+.titolo-paragrafo{color: gray;}
+#Booleaner{color: lightskyblue;}
+#data{color: gray; font-size: small;}
