@@ -83,6 +83,16 @@ tbody {
     background-color: white;
 }
 
-h4 {
+h3 {
     color: gray;
+}
+.consigliati{
+    position: relative;
+    display: inline-block;
+}
+.descrizione{
+    position: absolute;
+    color: white;
+    display: inline-block;
+    text-align: left;
 }
