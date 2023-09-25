@@ -1,9 +1,88 @@
-.intestazione{width: 100%;
-background-image: url(img/pattern.png);
-background-color: lightblue;
+body {
+    margin: 0%;
 }
 
-h1 {color:white;}
-.titolo-paragrafo{color: gray;}
-#Booleaner{color: lightskyblue;}
-#data{color: gray; font-size: small;}
+#intestazione {
+    width: 100%;
+    background-image: url(img/pattern.png);
+    background-color: #639ef8;
+    background-size: 50%;
+}
+
+#logo {
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+main {
+    margin-left: 1%;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.titolo-paragrafo {
+    color: gray;
+}
+
+#Booleaner {
+    color: lightskyblue;
+}
+
+#data {
+    color: gray;
+    font-size: small;
+    margin-top: 0;
+}
+
+.info-foto {
+    font-size: small;
+}
+
+.evidenziato {
+    background-color: #ffff54;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #51a6df;
+}
+
+th {
+    text-align: left;
+    color: white;
+}
+
+.colonna-stretta {
+    width: 30%;
+}
+
+.colonna-larga {
+    width: 40%;
+}
+
+tbody {
+    background-color: #bce3f0;
+}
+
+#riga-centrale {
+    background-color: white;
+}
+
+h4 {
+    color: gray;
+}
