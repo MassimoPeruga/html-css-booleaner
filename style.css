@@ -1,7 +1,8 @@
-header {
-    background-image: url(img/pattern.png);
-    background-size: contain;
+.intestazione{width: 100%;
+background-image: url(img/pattern.png);
+background-color: lightblue;
 }
+
 h1 {color:white;}
 .titolo-paragrafo{color: gray;}
 #Booleaner{color: lightskyblue;}
